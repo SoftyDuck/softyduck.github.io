@@ -8,3 +8,4 @@ Its very nice.
 
 # website link
 website link is https://softyduck.github.io/
+or https://github.softyduck.cf/
